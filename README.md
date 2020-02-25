@@ -4,23 +4,26 @@ The library wich is included in the default process
 ## Actions
 Overview of actions placed inside the library.
 
-### **Find CPR numbers in string**
-#### Inputs
+## Find CPR numbers in string
+> #### Inputs
+
 ##### CPR numbers string
 ```
 Return type: Text Value
 // The string (text) that we should look for CPR numbers inside
 ```
 
-#### Outputs
+> #### Outputs
+
 ##### Found CPR numbers list
 ```
 Return type: List<Text Value>
 // Containing every CPR number found in the text provided
 ```
 
-### **GenerateGUID**
-#### Outputs
+##GenerateGUID**
+> #### Outputs
+
 ##### guid
 ```
 Return type: Text Value
@@ -28,7 +31,8 @@ Return type: Text Value
 ```
 
 ### **GenerateGUID**
-#### Inputs
+> #### Inputs
+
 ##### Process settings Excel file path
 ```
 Input type: File
@@ -41,7 +45,8 @@ Input type: Boolean Value
 * Workfolder
 * Logs
 ```
-#### Outputs
+> #### Outputs
+
 ##### Process settings custom object
 ```
 Return type: Custom Object
