@@ -9,7 +9,7 @@ Overview of actions placed inside the library.
 
 ##### CPR numbers string
 ```
-Return type: Text Value
+Input type: Text Value
 // The string (text) that we should look for CPR numbers inside
 ```
 
