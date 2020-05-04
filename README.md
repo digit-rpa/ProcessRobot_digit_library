@@ -53,6 +53,15 @@ Return type: Custom Object
 // The custom object based on Excel file.
 ```
 
+### **Get current logged in user**
+> #### Outputs
+
+##### currentLoggedInUser
+```
+Return type: string
+// The filtered and trimmed username of the command whoami cmd command
+```
+
 
 
 
